@@ -1,4 +1,4 @@
-# Solutions for Leetcode July 2020 in `JAVA` / `C++` 
+# Solutions for Leetcode June 2020 in `JAVA` / `C++` 
 
 Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
 
