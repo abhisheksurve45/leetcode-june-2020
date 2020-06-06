@@ -8,6 +8,7 @@ Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-cha
 * [Delete Node in a Linked List in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/DeleteNodeLinkedList.java)
 * [Two City Scheduling in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/TwoCityScheduling.java)
 * [Reverse String in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/ReverseString.java)
+* [Random Pick with Weight in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/RandomPickWeight.java)
 
 
 ## WEEK 2
