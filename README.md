@@ -10,6 +10,7 @@ Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-cha
 * [Reverse String in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/ReverseString.java)
 * [Random Pick with Weight in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/RandomPickWeight.java)
 * [Queue Reconstruction by Height in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/QueueReconstructionHeight.java)
+* [Coin Change 2 in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/CoinChange2.java)
 
 
 ## WEEK 2
