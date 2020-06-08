@@ -12,10 +12,9 @@ Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-cha
 * [Queue Reconstruction by Height in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/QueueReconstructionHeight.java)
 * [Coin Change 2 in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/CoinChange2.java)
 
-
 ## WEEK 2
 
-[Coming up!](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
+* [Power of Two in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/PowerOfTwo.java)
 
 ## WEEK 3
 
