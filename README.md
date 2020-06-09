@@ -15,6 +15,7 @@ Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-cha
 ## WEEK 2
 
 * [Power of Two in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/PowerOfTwo.java)
+* [Is Subsequence in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/IsSubsequence.java)
 
 ## WEEK 3
 
