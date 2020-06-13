@@ -1,6 +1,8 @@
 # Solutions for Leetcode June 2020 in `JAVA` / `C++` 
 
-Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
+Challenge Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
+
+Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?list=PLk3HmtBxW9XUh2tPF26b84Dafe8wuDg48), [Naresh Gupta](https://www.youtube.com/playlist?list=PLamEquLLzOth5An1jWb0fESJh8qgtTy6L)
 
 ## WEEK 1
 
