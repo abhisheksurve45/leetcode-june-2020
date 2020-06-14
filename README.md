@@ -21,8 +21,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 * [Search Insert Position in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SearchInsertPosition.java)
 * [Sort Colors in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SortColors.java)
 * [Insert Delete GetRandom O(1) in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/InsertDeleteGetRandom.java)
-* [Largest Divisible Subset](https://githubgithub.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/LargestDivisibleSubset.java)
-* [Cheapest Flights Within K Stops](https://githubgithub.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/CheapestFlightsWithinKStops.java)
+* [Largest Divisible Subset](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/LargestDivisibleSubset.java)
+* [Cheapest Flights Within K Stops](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/CheapestFlightsWithinKStops.java)
 
 ## WEEK 3
 
