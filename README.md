@@ -26,7 +26,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 ## WEEK 3
 
-[Coming up!](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
+* [Search in a Binary Search Tree](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/SearchinBinarySearchTree.java)
 
 ## WEEK 4
 
