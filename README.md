@@ -27,6 +27,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 ## WEEK 3
 
 * [Search in a Binary Search Tree](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/SearchinBinarySearchTree.java)
+* [Validate IP Address](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/ValidateIPAddress.java)
 
 ## WEEK 4
 
