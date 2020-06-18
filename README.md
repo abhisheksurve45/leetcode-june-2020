@@ -1,4 +1,4 @@
-# Solutions for Leetcode June 2020 in `JAVA` / `C++` 
+# Solutions for Leetcode June 2020 in `JAVA` 
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
 
@@ -6,21 +6,21 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 ## WEEK 1
 
-* [Invert Binary Tree in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/InvertBinaryTree.java)
-* [Delete Node in a Linked List in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/DeleteNodeLinkedList.java)
-* [Two City Scheduling in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/TwoCityScheduling.java)
-* [Reverse String in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/ReverseString.java)
-* [Random Pick with Weight in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/RandomPickWeight.java)
-* [Queue Reconstruction by Height in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/QueueReconstructionHeight.java)
-* [Coin Change 2 in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/CoinChange2.java)
+* [Invert Binary Tree](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/InvertBinaryTree.java)
+* [Delete Node in a Linked List](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/DeleteNodeLinkedList.java)
+* [Two City Scheduling](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/TwoCityScheduling.java)
+* [Reverse String](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/ReverseString.java)
+* [Random Pick with Weight](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/RandomPickWeight.java)
+* [Queue Reconstruction by Height](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/QueueReconstructionHeight.java)
+* [Coin Change 2](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/CoinChange2.java)
 
 ## WEEK 2
 
-* [Power of Two in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/PowerOfTwo.java)
-* [Is Subsequence in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/IsSubsequence.java)
-* [Search Insert Position in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SearchInsertPosition.java)
-* [Sort Colors in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SortColors.java)
-* [Insert Delete GetRandom O(1) in JAVA](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/InsertDeleteGetRandom.java)
+* [Power of Two](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/PowerOfTwo.java)
+* [Is Subsequence](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/IsSubsequence.java)
+* [Search Insert Position](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SearchInsertPosition.java)
+* [Sort Colors](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SortColors.java)
+* [Insert Delete GetRandom O(1)](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/InsertDeleteGetRandom.java)
 * [Largest Divisible Subset](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/LargestDivisibleSubset.java)
 * [Cheapest Flights Within K Stops](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/CheapestFlightsWithinKStops.java)
 
