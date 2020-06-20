@@ -31,6 +31,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 * [Surrounded Regions](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/SurroundedRegions.java)
 * [H-Index II](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/HIndexII.java)
 * [Longest Duplicate Substring](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/LongestDuplicateSubstring.java)
+* [Permutation Sequence](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/PermutationSequence.java)
 
 ## WEEK 4
 
