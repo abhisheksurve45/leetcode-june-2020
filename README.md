@@ -37,6 +37,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 ## WEEK 4
 
 * [Single Number II](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/SingleNumberII.java)
+* [Count Complete Tree Nodes](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/CountCompleteTreeNodes.java)
 
 ## WEEK 5
 
