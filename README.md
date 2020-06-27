@@ -41,6 +41,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 * [Unique Binary Search Trees](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/UniqueBinarySearchTrees.java)
 * [Find the Duplicate Number](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/FindDuplicateNumber.java)
 * [Sum Root to Leaf Numbers](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/SumRoottoLeafNumbers.java)
+* [Perfect Squares](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/PerfectSquares.java)
 
 ## WEEK 5
 
