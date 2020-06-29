@@ -46,4 +46,4 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 ## WEEK 5
 
-[Coming up!](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
+* [Unique Paths](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK5/UniquePaths.java)
