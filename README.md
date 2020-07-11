@@ -1,4 +1,5 @@
-# Solutions for Leetcode June 2020 in `JAVA`  <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheksurve45.leetcode-june-2020" alt="visitor badge"/>
+# Solutions for Leetcode June 2020 in `JAVA` |  <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheksurve45.leetcode-june-2020" alt="visitor badge"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/abhisheksurve45/leetcode-june-2020/master)
+
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
 
