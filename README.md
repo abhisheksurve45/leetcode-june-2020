@@ -1,4 +1,4 @@
-# Solutions for Leetcode June 2020 in `JAVA` 
+# Solutions for Leetcode June 2020 in `JAVA`  <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheksurve45.leetcode-june-2020" alt="visitor badge"/>
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
 
@@ -20,7 +20,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 * [Is Subsequence](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/IsSubsequence.java)
 * [Search Insert Position](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/SearchInsertPosition.java)
 * [Sort Colors](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/SortColors.java)
-* [Insert Delete GetRandom O(1)](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/InsertDeleteGetRandom.java)
+    * [Insert Delete GetRandom O(1)](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/InsertDeleteGetRandom.java)
 * [Largest Divisible Subset](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/LargestDivisibleSubset.java)
 * [Cheapest Flights Within K Stops](https://github.com/abhisheksurve45/leetcode-june-2020/blob/master/WEEK2/CheapestFlightsWithinKStops.java)
 
